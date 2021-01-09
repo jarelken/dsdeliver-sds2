@@ -1,6 +1,5 @@
 import './styles.css';
 import { toast } from 'react-toastify';
-import {ReactComponent as Logo} from './logo.svg';
 import StepsHeader from './StepsHeader';
 import ProductsList from './ProductsList';
 import { useEffect, useState } from 'react';

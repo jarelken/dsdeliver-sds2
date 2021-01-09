@@ -8,13 +8,13 @@ function Footer() {
         <footer className="main-footer">
             App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
             <div className="footer-icons">
-                <a href="" target="_new">
+                <a href="https://www.youtube.com/" target="_new">
                     <YoutubeIcon/>
                 </a>
-                <a href="" target="_new">
+                <a href="https://www.linkedin.com/in/jarel-kentaro-santos-taguti-bb829a123/" target="_new">
                     <LinkedinIcon/>
                 </a>
-                <a href="" target="_new">
+                <a href="https://www.instagram.com/jarelken/" target="_new">
                     <InstagramIcon/>
                 </a>
             </div>
