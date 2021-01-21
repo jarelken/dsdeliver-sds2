@@ -27,7 +27,7 @@ function Orders() {
     }
   }, [isFocused]);
 
-
+  
   const handleOnPress = (order: Order) => {
     navigation.navigate('OrderDetails', {
       order
